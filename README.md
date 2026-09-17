@@ -14,14 +14,13 @@ Spec'd for Deep Space Objects (DSO)
 ### Specifications
 **FOV: 1.82° × 1.03° Pixel scale 1.71″/px**
 * Redcat 71 348mm @ f/4.9
-* ZWO AM5N Mount
+* iOptron GEM28 Mount
 * QHY Minicam8 camera w/ Deep Sky filter set (LRGB+SHO)
-* top mount guide scope w/ ASI120mm
+* iOptron iguider
 * ZWO EAF
 * SVBony SV241 Pro controller
 * ASI662MC AllSky camera
 * Mini PC w/ NINA
-
 
 # Rig 2
 Spec'd for DSO + light planetary usage
@@ -31,7 +30,7 @@ Spec'd for DSO + light planetary usage
 ### Specifications
 * Celestron C8 SCT
 * Sky Watcher EQ6-R Pro mount
-* Pegasus Astro FocusCube
+* ZWO EAF direct drive focuser
 * Eagle pc controller top mounted running NINA
 * Secondary Pegasus power box mini for extra controls
 
@@ -39,7 +38,7 @@ Spec'd for DSO + light planetary usage
 **FOV: 0.50° × 0.28° Pixel scale 0.47″/px**
 * 0.63x reducer+corrector
 * QHY Minicam8 camera w/ Deep Sky filter set (LRGB+SHOA) (yes, has the Ariii filter)
-* OAG w/  QHY 5-III 462 C camera
+* OAG w/  ZWO ASI174MM guide camera
 
 
 ### Planetary Imaging Train
@@ -54,8 +53,7 @@ The home rig
 
 ## Specifications
 * Askar FRA600 Refractor (600mm @ f/5.6, flat 66mm image circle)
-* iOptron GEM26 mount
-* iOptron iGuider scope+camera
+* ZWO AM5N
 * Surface tablet running NINA
 * Svbony SV 241 pro power box
 
